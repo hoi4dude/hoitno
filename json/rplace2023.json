@@ -1,0 +1,24 @@
+{
+  "contact": "https://disboard.org/fr/server/959141965532897340",
+  "templates": [
+    {
+      "name": "Place Quebec",
+      "sources": [
+        "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
+      ],
+      "x": 953,
+      "y": 630
+    }
+  ],
+    "whitelist": [
+    {
+      "name": "Argentine",
+      "url": "https://rentry.co/PlaceArg/raw"
+    },
+	{
+		"name": "WCA - World Cube Association",
+		"url": "https://rentry.co/WCA2/raw"
+	}
+  ],
+  "blacklist": []
+}
